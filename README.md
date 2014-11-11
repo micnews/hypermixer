@@ -3,7 +3,7 @@ hypermixer
 
 Normalizes and filters streams of new line delimited JSON.
 
-[![Build Status](https://magnum.travis-ci.com/PolicyMic/hypermixer.svg?token=jEessZGjdtQ7bzV5hkxS&branch=master)](https://magnum.travis-ci.com/PolicyMic/hypermixer)
+[![Build Status](https://travis-ci.org/micnews/hypermixer.svg)](https://travis-ci.org/micnews/hypermixer)
 
 # USAGE
 
