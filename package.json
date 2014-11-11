@@ -1,0 +1,20 @@
+{
+  "name": "hypermixer",
+  "version": "1.0.0",
+  "description": "Hypermixer normalizes and filters streams of new line delimited JSON",
+  "main": "index.js",
+  "scripts": {
+    "test": "node_modules/.bin/mocha --recursive test --bail --colors --reporter spec --debug -u tdd --log true"
+  },
+  "author": "mic.com",
+  "license": "MIT",
+  "dependencies": {
+    "hyperquest": "^0.3.0",
+    "JSONStream": "^0.8.0",
+    "querystring": "^0.2.0",
+    "through": "^2.3.4"
+  },
+  "devDependencies": {
+    "mocha": "~1.20.1"
+  }
+}
