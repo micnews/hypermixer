@@ -1,6 +1,6 @@
 {
   "name": "hypermixer",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Hypermixer normalizes and filters streams of new line delimited JSON",
   "main": "index.js",
   "scripts": {
